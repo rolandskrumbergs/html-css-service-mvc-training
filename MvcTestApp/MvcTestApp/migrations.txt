@@ -1,0 +1,7 @@
+﻿Izveidojam jaunu migrāciju
+
+dotnet ef migrations add [NOSAUKUMS] --project MvcTestApp
+
+Atjaunojam datubāzi
+
+dotnet ef database update --project MvcTestApp
